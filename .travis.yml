@@ -1,9 +1,8 @@
 before_install:
   - composer install
+  - php composer.phar install
 language: php
 php:
-  - 5.4
-  - 5.5
   - 5.6
 env:
   - DB=mysql
