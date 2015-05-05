@@ -1,4 +1,4 @@
-## Laravel PHP Framework
+## Mencoba App
 
 [![Build Status](https://travis-ci.org/mucill/mencoba.svg)](https://travis-ci.org/mucill/mencoba)
 
