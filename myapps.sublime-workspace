@@ -1,0 +1,703 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"broder",
+				"border-bottom"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"gra",
+				"grayscale"
+			],
+			[
+				"backgrun",
+				"background"
+			],
+			[
+				"o",
+				"none"
+			],
+			[
+				"Text",
+				"text-transform"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ease",
+				"ease"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"lit",
+				"list-style"
+			],
+			[
+				"ease-in",
+				"ease-in-out"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"Opne",
+				"Open_Sans"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: doc",
+				"Snippet: Start Docblock"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 258.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git remote -v",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Webs/myapps",
+		"/D/Webs/myapps/config",
+		"/D/Webs/myapps/database",
+		"/D/Webs/myapps/database/migrations",
+		"/D/Webs/myapps/database/seeds",
+		"/D/Webs/myapps/public",
+		"/D/Webs/myapps/resources",
+		"/D/Webs/myapps/resources/views",
+		"/D/Webs/myapps/resources/views/manage",
+		"/D/Webs/myapps/resources/views/manage/category",
+		"/D/Webs/myapps/resources/views/manage/products",
+		"/D/Webs/myapps/vendor",
+		"/D/Webs/myapps/vendor/laravel",
+		"/D/Webs/myapps/vendor/laravel/framework",
+		"/D/Webs/myapps/vendor/laravel/framework/src",
+		"/D/Webs/myapps/vendor/laravel/framework/src/Illuminate",
+		"/D/Webs/myapps/vendor/laravel/framework/src/Illuminate/Database"
+	],
+	"file_history":
+	[
+		"/D/Webs/pyrocms/composer.json",
+		"/D/Webs/pyrocms/config/app.php",
+		"/D/Webs/pyrocms/composer.lock",
+		"/D/Webs/myapps/database/seeds/CategorySeeder.php",
+		"/D/Webs/myapps/database/seeds/ProductSeeder.php",
+		"/D/Webs/myapps/app/Http/Models/Category.php",
+		"/D/Webs/myapps/app/Http/Models/Products.php",
+		"/D/Webs/myapps/database/seeds/DatabaseSeeder.php",
+		"/D/Webs/myapps/database/migrations/2015_05_04_132342_create_category_table.php",
+		"/D/Webs/myapps/app/Http/Controllers/Manage/CategoryController.php",
+		"/D/Webs/myapps/.env",
+		"/D/Webs/myapps/app/Http/routes.php",
+		"/D/Webs/myapps/resources/views/manage/categories/lists.blade.php",
+		"/D/Webs/pyrocms/app/Http/routes.php",
+		"/D/Webs/pyrocms/vendor/anomaly/streams-composer-plugin/spec/Anomaly/StreamsComposerPlugin/Installer/AddonInstallerSpec.php",
+		"/D/Webs/pyrocms/storage/views/twig/8a/9c/f4d769a8d6d436523af36544a6f1e92b5559f59d062c50135c3af8390640.php",
+		"/D/Webs/pyrocms/storage/models/streams/default/Settings/SettingsSettingsEntryModel.php",
+		"/D/Webs/pyrocms/resources/lang/en/validation.php",
+		"/D/Webs/pyrocms/resources/lang/en/passwords.php",
+		"/D/Webs/pyrocms/resources/lang/en/pagination.php",
+		"/D/Webs/anchor/system/database/builder.php",
+		"/D/Webs/anchor/anchor/models/base.php",
+		"/D/Webs/anchor/anchor/models/category.php",
+		"/D/Webs/myapps/resources/views/app.blade.php",
+		"/D/Webs/myapps/config/app.php",
+		"/D/Webs/myapps/resources/views/manage/category/lists.blade.php",
+		"/D/Webs/myapps/resources/views/manage/products/lists.blade.php",
+		"/D/Webs/myapps/app/Http/Controllers/Manage/ProductsController.php",
+		"/D/Webs/myapps/app/Http/Models/Categories.php",
+		"/D/Webs/myapps/database/seeds/UserSeeder.php",
+		"/D/Webs/myapps/app/Http/Controllers/Manage/Product/ProductsController.php",
+		"/D/Webs/myapps/app/Products.php",
+		"/D/Webs/myapps/app/Http/Controllers/Manage/HomeController.php",
+		"/D/Webs/myapps/app/Models/Products.php",
+		"/D/Webs/myapps/app/Models/User.php",
+		"/D/Webs/myapps/app/User.php",
+		"/D/Webs/myapps/app/Http/Requests/Request.php",
+		"/D/Webs/myapps/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php",
+		"/D/Webs/myapps/app/Http/Controllers/Controller.php",
+		"/D/Webs/myapps/app/Http/Controllers/HomeController.php",
+		"/D/Webs/myapps/composer.json",
+		"/D/Webs/laravel-5/artisan.html",
+		"/D/Webs/laravel-5/Source/eloquent.md",
+		"/D/Webs/laravel-5/authentication.html",
+		"/D/Webs/laravel-5/billing.html",
+		"/D/Webs/laravel-5/bus.html",
+		"/D/Webs/laravel-5/collections.html",
+		"/D/Webs/laravel-5/commands.html",
+		"/D/Webs/laravel-5/configuration.html",
+		"/D/Webs/laravel-5/container.html",
+		"/D/Webs/laravel-5/contracts.html",
+		"/D/Webs/laravel-5/controllers.html",
+		"/D/Webs/laravel-5/eloquent.html",
+		"/D/Webs/laravel-5/events.html",
+		"/D/Webs/laravel-5/facades.html",
+		"/D/Webs/laravel-5/filesystem.html",
+		"/D/Webs/laravel-5/homestead.html",
+		"/D/Webs/laravel-5/installation.html",
+		"/D/Webs/laravel-5/lifecycle.html",
+		"/D/Webs/laravel-5/localization.html",
+		"/D/Webs/laravel-5/mail.html",
+		"/D/Webs/laravel-5/migrations.html",
+		"/D/Webs/laravel-5/packages.html",
+		"/D/Webs/laravel-5/pagination.html",
+		"/D/Webs/laravel-5/providers.html",
+		"/D/Webs/laravel-5/queues.html",
+		"/D/Webs/laravel-5/redis.html",
+		"/D/Webs/laravel-5/releases.html",
+		"/D/Webs/laravel-5/requests.html",
+		"/D/Webs/laravel-5/responses.html",
+		"/D/Webs/laravel-5/routing.html",
+		"/D/Webs/laravel-5/session.html",
+		"/D/Webs/laravel-5/Source/artisan.md",
+		"/D/Webs/laravel-5/Source/authentication.md",
+		"/D/Webs/laravel-5/Source/billing.md",
+		"/D/Webs/laravel-5/Source/bus.md",
+		"/D/Webs/laravel-5/Source/collections.md",
+		"/D/Webs/laravel-5/Source/commands.md",
+		"/D/Webs/laravel-5/Source/configuration.md",
+		"/D/Webs/laravel-5/Source/container.md",
+		"/D/Webs/laravel-5/Source/contracts.md",
+		"/D/Webs/laravel-5/Source/controllers.md",
+		"/D/Webs/laravel-5/Source/documentation.md",
+		"/D/Webs/laravel-5/Source/events.md",
+		"/D/Webs/laravel-5/Source/facades.md",
+		"/D/Webs/laravel-5/Source/filesystem.md",
+		"/D/Webs/laravel-5/Source/homestead.md",
+		"/D/Webs/laravel-5/Source/installation.md",
+		"/D/Webs/laravel-5/Source/lifecycle.md",
+		"/D/Webs/laravel-5/Source/localization.md",
+		"/D/Webs/laravel-5/Source/mail.md",
+		"/D/Webs/laravel-5/Source/migrations.md",
+		"/D/Webs/laravel-5/Source/packages.md",
+		"/D/Webs/laravel-5/Source/pagination.md",
+		"/D/Webs/laravel-5/Source/providers.md",
+		"/D/Webs/laravel-5/Source/queues.md",
+		"/D/Webs/laravel-5/Source/redis.md",
+		"/D/Webs/laravel-5/Source/releases.md",
+		"/D/Webs/laravel-5/Source/requests.md",
+		"/D/Webs/laravel-5/Source/responses.md",
+		"/D/Webs/laravel-5/Source/routing.md",
+		"/D/Webs/laravel-5/Source/session.md",
+		"/D/Webs/laravel-5/Source/testing.md",
+		"/D/Webs/laravel-5/Source/upgrade.md",
+		"/D/Webs/laravel-5/Source/views.md",
+		"/D/Webs/laravel-5/testing.html",
+		"/D/Webs/laravel-5/upgrade.html",
+		"/D/Webs/laravel-5/views.html",
+		"/D/Webs/myapps/tests/ProductTest.php",
+		"/D/Webs/laravel-5/index.html",
+		"/D/Webs/myapps/tests/ExampleTest.php",
+		"/D/Webs/myapps/config/mail.php",
+		"/D/Webs/myapps/public/css/app.css",
+		"/D/Webs/myapps/resources/assets/less/app.less",
+		"/D/Webs/myapps/app/Http/Controllers/ProductsController.php",
+		"/D/Webs/myapps/database/migrations/2015_05_03_052548_create_products_table.php",
+		"/D/Webs/myapps/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/D/Wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/D/Webs/myapps/database/seeds/Apps.php",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/D/Webs/myapps/app/Product.php",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/Webs/myapps/app/Providers/RouteServiceProvider.php",
+		"/D/Webs/myapps/app/Providers/EventServiceProvider.php",
+		"/D/Webs/myapps/app/Providers/ConfigServiceProvider.php",
+		"/D/Webs/myapps/app/Providers/BusServiceProvider.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"D:\\Webs\\laravel-5",
+			"D:\\Webs\\myapps",
+			"D:\\Webs\\slims7_cendana",
+			"D:\\Webs\\slims8_akasia\\template\\default\\less",
+			"D:\\Webs\\slims8_akasia",
+			"D:\\Webs\\slims8_akasia\\template",
+			"D:\\Webs\\slims8_akasia\\template\\default\\less",
+			"D:\\Webs\\slims8_akasia\\template\\default",
+			"D:\\Webs\\slims8_akasia\\lib",
+			"D:\\Webs\\slims8_akasia\\lib\\contents",
+			"D:\\Webs\\slims7_cendana",
+			"D:\\Webs\\slims8_akasia",
+			"D:\\Webs\\slims8_akasia\\lib\\Zend",
+			"D:\\Webs\\slims8_akasia\\template",
+			"D:\\Webs\\slims8_akasia\\template\\default\\less\\img",
+			"D:\\Webs\\slims8_akasia",
+			"",
+			"D:\\Webs\\slims8_akasia_smsgateway",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"laravel",
+			"APP_ENV",
+			"Categories::",
+			"categories_name",
+			"Category",
+			"Category::",
+			"Category",
+			"$product",
+			"product",
+			"$products",
+			"products",
+			"Products",
+			"optimize",
+			"docs/{{version}}/",
+			"/docs/{{version}}/",
+			"pear",
+			"Products",
+			"Roboto",
+			"['",
+			"<td>",
+			"responsive",
+			"th",
+			"Illuminate",
+			"<li>",
+			"'mail'",
+			"45,57,79,1",
+			"			<div class=\"s-card-sign\">\n				<div class=\"s-card-sign-header\">\n					Kepala Kantor<br>\n					Perpustakaan Dan Arsip					\n				</div>\n				<div class=\"s-card-stamp\">&nbsp;</div>\n				<div class=\"s-card-ttd\">&nbsp;</div>\n				<div class=\"s-card-sign-name\">					\n					Susamti, SS., MM<br>\n					NIP. 19680404 199603 2004\n				</div>	\n			</div>\n",
+			"25",
+			"45,57,79,1",
+			"grayscale(1)",
+			"255",
+			"rgba(0,0,0,1)",
+			"page-break",
+			"clear",
+			"background",
+			"unset",
+			"barcode-",
+			"s-card-barcode",
+			"logo",
+			"queueCount",
+			"member_card_gen_print_result_",
+			"print_file_name",
+			"member_card_generator.php",
+			"generator",
+			"logo",
+			"radius",
+			"border-radius:5px;",
+			"radius",
+			"-b",
+			"s-card",
+			"barc",
+			".s-card-info",
+			"top:0",
+			"10px",
+			"s-card-sign-name",
+			"s-card-label",
+			"s-card-member",
+			"35",
+			"105",
+			"0.5",
+			"0.25",
+			"255,255,255,0.9",
+			"0,0,153",
+			"0,0.9",
+			"0.9",
+			"0.8",
+			"max-",
+			",1)",
+			"1)",
+			"template",
+			"simbio_template_parser",
+			"member_card_generator",
+			"<!--",
+			"membercard",
+			"chunked_card_arrays",
+			"membercard_rows",
+			"$size",
+			"member",
+			"card",
+			"print",
+			"keterangan",
+			"author",
+			"form-control",
+			"sm",
+			"<tr><td>",
+			"insert",
+			"$",
+			"usul",
+			"'mail'",
+			"$mail->",
+			"mail",
+			"$key_auth",
+			"debug",
+			"do_debug",
+			"debug",
+			"is_new",
+			"auth",
+			"'mail'",
+			"mail",
+			"pill",
+			".nav-pill",
+			"naviga",
+			".brand",
+			".navbar .nav",
+			"brand",
+			".navbar-menu .brand",
+			"05ACD6",
+			".brand",
+			".navbar-menu",
+			".navbar-menu .brand",
+			"biblio_list(",
+			"<br",
+			"biblio_list_format",
+			"spell",
+			"spellchecker",
+			".xmlResultLink",
+			"#loginButton, .memberButton, .s-main-content .col-lg-4 a, .s-detail .btn, .xmlResultLink",
+			"300/200",
+			"image_files",
+			"thumb",
+			"passwor",
+			"auth_pass",
+			"thumb",
+			"file",
+			"FILE",
+			"puter",
+			".s-main-page .s-main-content",
+			".biblioPaging"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-pull":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"project": "myapps.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"template\\default\\detail_template.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 408.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
